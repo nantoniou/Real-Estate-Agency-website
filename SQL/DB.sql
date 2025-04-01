@@ -141,6 +141,6 @@ insert into housePictures values (null, 8 , "images/8rent5.jpg ");
 insert into user values (null, 'Administrator', null, null, 'realEstate@yahoo.com', 'admin', null, 'admin', DEFAULT);
 
 /*users*/
-insert into user values (null, 'Νίκος', 'Αντωνίου', 'Είμαι καθηγητής που μόλις μετακόμισε και αναζητώ μόνιμη κατοικία στη Λέρο. Ψάχνω ένα ευάρερο, ευήλιο και οικονομικό δυάρι, κατά προτίμηση κοντά στο Γενικό Λύκειο Λέρου.', 'nikos1@gmail.com', 'nikos1', '301234567', '1111', DEFAULT);
+insert into user values (null, 'Νίκος', 'XXX', 'Είμαι καθηγητής που μόλις μετακόμισε και αναζητώ μόνιμη κατοικία στη Λέρο. Ψάχνω ένα ευάρερο, ευήλιο και οικονομικό δυάρι, κατά προτίμηση κοντά στο Γενικό Λύκειο Λέρου.', 'nikos1@gmail.com', 'nikos1', '301234567', '1111', DEFAULT);
 insert into user values (null, 'Adam', 'Smith', 'Stuffs', 'adam@smith.com', 'asdfg', '30123456', '1111', DEFAULT);
 insert into user values (null, 'John', 'Doe', 'Stuffs', 'john@doe.com', 'jdoe', '30123456', '1111', DEFAULT);
